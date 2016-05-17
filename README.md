@@ -35,4 +35,4 @@
 
 ## Older
 
-- 更老的版本，(点击这里)[https://lab.yhtng.com/ZhuhaiBus/zhuhaibus-debug-0.9.1.apk]下载
+- 更老的版本，[点击这里](https://lab.yhtng.com/ZhuhaiBus/zhuhaibus-debug-0.9.1.apk)下载
