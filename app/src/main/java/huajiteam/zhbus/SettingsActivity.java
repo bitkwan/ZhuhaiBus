@@ -12,6 +12,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
         super.onCreate(savedInstanceState);
         setupActionBar();
 
+
         addPreferencesFromResource(R.xml.settings);
     }
 

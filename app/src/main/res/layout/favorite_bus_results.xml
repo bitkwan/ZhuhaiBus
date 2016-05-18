@@ -1,31 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:paddingStart="5sp">
 
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3"
+        android:paddingTop="10sp"
+        android:paddingBottom="10sp">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="2333路"
-            android:id="@+id/lineName" />
+            android:id="@+id/lineName"
+			android:textSize="18sp"	/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="一些提示的内容"
-            android:id="@+id/summaryMessage" />
+            android:id="@+id/summaryMessage"
+			android:textSize="12sp" />
     </LinearLayout>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/search_result_search"
         android:id="@+id/searchOLButton"
-        android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+		android:src="@drawable/ic_watch_later_black_24dp"
+		android:text="查询"
+        android:layout_alignBottom="@+id/linearLayout3"
+        android:layout_alignParentTop="true" />
 </RelativeLayout>
