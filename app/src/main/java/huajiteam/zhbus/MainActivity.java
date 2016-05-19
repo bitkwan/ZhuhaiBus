@@ -294,11 +294,14 @@ public class MainActivity extends AppCompatActivity
                 }
             }).start();
         } else if (id == R.id.nav_feedback) {
-            makeAlert("发送反馈", "如需反馈，请将您需要反馈的内容发送至 yhjserv@gmail.com");
+            makeAlert("Feebback", "Please open the link: \n"+
+                    "https://github.com/HuaJiTeam/ZhuhaiBus \n"+
+                    "to create a new issue."
+            );
         } else if (id == R.id.nav_about) {
-            makeAlert("关于",
-                    "UI/翻译: https://github.com/bitkwan\n" +
-                    "主要开发者: https://github.com/kelakim");
+            makeAlert("About",
+                    "Huaji Team: \n"+
+                            "https://github.com/huajiteam");
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

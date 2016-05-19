@@ -1,3 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d885db65f208a80d2dcdd71f86f38d36b96a9cd7">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0d60a99fe28f3a2a104ee63f97fddb109af77061\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_c986f58fe51f9556f75068d480e9fa7b56c4ad17\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_ddd646a84ff15e66b69b68b946665bff49bd389c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\sangx\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_98cef875b16f6061938a4363d6f976e9adae8aaf\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_c9f1b1f00f041eb9a78bb8d13f01d8e4d8c7e798\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_dd27f3c6cd7b0b788194bab8f89d79eedf794114\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f63e1f6153db14704bb6c4285ef2a904a1a173d6">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_58179774838001a899a6f44ec26b12888aa79b2f\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_b27fb9cba319ad91f0c18358ddebe96b4690ba97\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_debd4b6bc50d5e712523efa88767c74ddff7d5c7\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\libs\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.8.0_8ce9822e6501575fdd09ca1dfc3a1e2f65669025\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_ddbad3144f0fd7b010223d44b4304a86e44987ef\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.2.0_8f33051d6e876ac1baf8dd417c2da53472d5bf0d\classes.dex" />
+    </item>
+    <item
+        jar="F:\ZhuhaiBus\ZhuhaiBus\app\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="F:\ZhuhaiBus\ZhuhaiBus\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.6.2_19e63c7c6823b7e1143279a1db84a612dd4a196f\classes.dex" />
+    </item>
+
+</items>

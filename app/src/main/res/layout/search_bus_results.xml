@@ -26,22 +26,22 @@
             android:textSize="12sp" />
     </LinearLayout>
 
-    <Button
+    <ImageButton
         android:layout_width="60sp"
         android:layout_height="wrap_content"
         android:id="@+id/searchOLButton"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-		android:text="查询"
         android:layout_alignBottom="@+id/addFavButton"
-        android:layout_alignParentTop="true" />
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_gps_not_fixed_black_24dp" />
 
-    <Button
+    <ImageButton
         android:layout_width="60sp"
         android:layout_height="wrap_content"
         android:id="@+id/addFavButton"
-        android:text="收藏"
         android:layout_toLeftOf="@+id/searchOLButton"
         android:layout_alignBottom="@+id/linearLayout2"
-        android:layout_alignParentTop="true" />
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_favorite_border_white_24dp" />
 </RelativeLayout>

@@ -32,8 +32,7 @@
         android:id="@+id/searchOLButton"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-		android:src="@drawable/ic_watch_later_black_24dp"
-		android:text="查询"
+		android:text="@string/search_result_search"
         android:layout_alignBottom="@+id/linearLayout3"
         android:layout_alignParentTop="true" />
 </RelativeLayout>
